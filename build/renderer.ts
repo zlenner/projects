@@ -10,7 +10,7 @@ function renderer(projects: Project[]): string {
     for (const project of projects) {
         html += `<a class="project" href="${project.link}">`
         html += `<h2>${project.title}</h2>`
-        html += `<pre>${project.snippet}</pre>`
+        html += `<div>${project.snippet}</div>`
         html += `</a>`
     }
     return html
