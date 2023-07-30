@@ -1,0 +1,20 @@
+{
+  "name": "projects",
+  "scripts": {
+    "build": "npx vite-node ./build",
+    "dev": "npx vite-node ./build/watch.ts"
+  },
+  "dependencies": {
+    "@types/marked": "^5.0.1",
+    "jsdom": "^22.1.0",
+    "live-server": "^1.2.2",
+    "marked": "^5.1.2",
+    "node-sass": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.1",
+    "@types/live-server": "^1.2.1",
+    "@types/node": "^20.4.5",
+    "@types/node-sass": "^4.11.3"
+  }
+}
