@@ -5,7 +5,7 @@ function renderer(projects: Project[]): string {
 
     const pageName = "Projects"
     
-    let html: string = `<head></head><script defer data-domain="zlenner.com" src="https://plausible.io/js/script.js"></script><link rel="stylesheet" href="./style.css"><header><title>${pageName}</title><discord>zlenner${discordIcon}</discord></header>`
+    let html: string = `<head></head><script defer data-domain="projects.zlenner.com" src="https://plausible.io/js/script.js"></script><link rel="stylesheet" href="./style.css"><header><title>${pageName}</title><discord>zlenner${discordIcon}</discord></header>`
 
     for (const project of projects) {
         html += `<a class="project" href="${project.link}">`
