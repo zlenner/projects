@@ -2,6 +2,7 @@
 
 ```
 Problem
+We have an analysis project coming up, and we’ll need to periodically extract URLs and their content from CommonCrawl for this.
 
 So? We’d use the nice API provided by CommonCrawl for this here. Pattern matching works perfectly for us.
 

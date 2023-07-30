@@ -21,6 +21,8 @@ const onChange = (type: "html" | "css") => {
     }
 }
 
+build()
+
 fs.watchFile("./style.scss", {interval: 200}, onChange("css"))
 fs.watchFile("./projects.md", {interval: 200}, onChange("html"))
 

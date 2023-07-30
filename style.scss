@@ -1,3 +1,45 @@
-a.project {
+body {
     margin: 14px;
+    font-family: monospace;
+}
+header {
+    display: flex;
+    font-size: 23px;
+    align-items: center;
+    margin-bottom: 20px;
+    discord {
+        font-weight: bold;
+        font-size: 0.7em;
+        margin-left: auto;
+        display: flex;
+        color: #5865F2;
+        svg {
+            display: flex;
+            margin-left: 7px;
+            margin-top: 2px;
+        }    
+    }
+    title {
+        display: flex;
+        font-family: monospace;
+    }    
+}
+a.project {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    padding: 13px;
+    font-family: monospace;
+    text-decoration: none;
+    color: black;
+    overflow: hidden;
+    &:hover {
+        background-color: black;
+        color: white;    
+    }
+    h2 {
+        font-size: 1.5rem;
+        margin: 0;
+        text-decoration: none;
+    }
 }
