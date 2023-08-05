@@ -1,5 +1,6 @@
-# Project Pintail
+# [Pintail]()
 
+```
 iOS app which will need to efficiently stream, store data on-the-fly for kind-of heavy data.
 
 Can provide more details after an initial chat on Discord!
@@ -17,3 +18,4 @@ I have the exact architecture we need for this in mind, we'll debate if we have 
 Message me on Discord with the answer to these questions:
 
 - What's the project you've had the best time working on?
+```

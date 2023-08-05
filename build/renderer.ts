@@ -8,7 +8,8 @@ function renderer(projects: Project[]): string {
     let html: string = `<head></head><script defer data-domain="projects.zlenner.com" src="https://plausible.io/js/script.js"></script><link rel="stylesheet" href="./style.css"><header><title>${pageName}</title><discord>zlenner${discordIcon}</discord></header>`
 
     for (const project of projects) {
-        html += `<a class="project" href="${project.link}">`
+        const href = project.link ? `href="${project.link}"` : ""
+        html += `<a class="project" ${href}>`
         html += `<h2>${project.title}</h2>`
         html += `<pre>${project.snippet}</pre>`
         html += `</a>`
