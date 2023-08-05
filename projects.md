@@ -1,13 +1,19 @@
-# [Retrieving URLs from CommonCrawl](https://replit.com/bounties/@vibo/retrieve-urls-from-c-1)
+# Project Pintail
 
-```
-Problem
-We have an analysis project coming up, and we’ll need to periodically extract URLs and their content from CommonCrawl for this.
+iOS app which will need to efficiently stream, store data on-the-fly for kind-of heavy data.
 
-So? We’d use the nice API provided by CommonCrawl for this here. Pattern matching works perfectly for us.
+Can provide more details after an initial chat on Discord!
 
-[https://index.commoncrawl.org](https://index.commoncrawl.org)
+Hiring for two positions:
+- iOS Engineer
+- Backend Engineer
 
-Butt it’s already overloaded and keeps timing out...
-```
+## How we'll do this:
 
+I have the exact architecture we need for this in mind, we'll debate if we have a better way of doing this, and then work very, very fast on this to build out a first prototype.
+
+## If you want in:
+
+Message me on Discord with the answer to these questions:
+
+- What's the project you've had the best time working on?
