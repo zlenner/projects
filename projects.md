@@ -15,7 +15,7 @@ I have the exact architecture we need for this in mind, we'll debate if we have 
 
 ## If you want in:
 
-Message me on Discord with the answer to these questions:
+Message me on Discord with the answer to this question:
 
 - What's the project you've had the best time working on?
 ```
