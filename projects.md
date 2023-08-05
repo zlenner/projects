@@ -5,9 +5,10 @@ iOS app which will need to efficiently stream, store data on-the-fly for kind-of
 
 Can provide more details after an initial chat on Discord!
 
-Hiring for two positions:
-- iOS Engineer
-- Backend Engineer
+Hiring for three roles:
+- iOS
+- Backend
+- Frontend (Web App)
 
 ## How we'll do this:
 
