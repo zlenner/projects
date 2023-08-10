@@ -1,9 +1,11 @@
 # [Pintail]()
 
 ```
-iOS app which will need to efficiently stream, store data on-the-fly for kind-of heavy data.
+Super-super interesting iOS app which will be doing something that hasn't done before, and would make my life (and I would assume the same for a lot of people) much easier.
 
-Can provide more details after an initial chat on Discord!
+The technically challenging part is it'll need to efficiently stream, process, and store data on-the-fly. The data is-kind-of heavy.
+
+Can provide more details after an initial chat on Discord.
 
 Hiring for three roles:
 - iOS
@@ -12,7 +14,24 @@ Hiring for three roles:
 
 ## How we'll do this:
 
-I have the exact architecture we need for this in mind, we'll debate if we have a better way of doing this, and then work very, very fast on this to build out a first prototype.
+For the protoype, we need either an iOS developer or Web Developer first along with someone who'll do the backend.
+
+I have the exact architecture we need for this in mind, we'll debate if we have a better way of doing this, and then work very, very fast on this to build out a first prototype (using either an iOS or Web frontend).
+
+## Why
+
+- It's something super-interesting and new (not related to QR codes though)
+- There are no formalities. The only focus is getting the job done.
+- Your current work bores you out of your mind.
+- Compensation will be reasonably competitive as well.
+
+## Opinions I have that you *need* know about:
+
+a) Everyone can question everyone, and everything. The strength of your argument matters, not your personality.
+
+b) Human technological history has often been built on the progress of others, which is why the path to the latest achievement (whatever it is) is winded and complicated.
+
+We should constantly rethink the entire path to form the nearest-straight distance to our current goals (from our initial state).
 
 ## If you want in:
 
