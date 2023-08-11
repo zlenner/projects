@@ -29,9 +29,7 @@ I have the exact architecture we need for this in mind, we'll debate if we have 
 
 a) Everyone can question everyone, and everything. The strength of your argument matters, not your personality.
 
-b) Human technological history has often been built on the progress of others, which is why the path to the latest achievement (whatever it is) is winded and complicated.
-
-We should constantly rethink the entire path to form the nearest-straight distance to our current goals (from our initial state).
+b) Simplicity is key. If something can be done with the same efficiency in a more explicit, easier-to-understand way, that's the only way to do it.
 
 ## If you want in:
 
