@@ -14,7 +14,7 @@ Hiring for three roles:
 
 ## How we'll do this:
 
-For the protoype, we need either an iOS developer or Web Developer first along with someone who'll do the backend.
+For the prototype, we need either an iOS developer or Web Developer first along with someone who'll do the backend.
 
 I have the exact architecture we need for this in mind, we'll debate if we have a better way of doing this, and then work very, very fast on this to build out a first prototype (using either an iOS or Web frontend).
 
@@ -23,7 +23,7 @@ I have the exact architecture we need for this in mind, we'll debate if we have 
 - It's something super-interesting and new (not related to QR codes though)
 - There are no formalities. The only focus is getting the job done.
 - Your current work bores you out of your mind.
-- Compensation will be reasonably competitive as well.
+- Compensation will be competitive.
 
 ## Opinions I have that you *need* know about:
 
